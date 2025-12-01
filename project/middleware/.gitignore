@@ -1,0 +1,4 @@
+# Ignore the actual file containing secrets
+.env
+
+.conda
